@@ -1,0 +1,7 @@
+jplephem==2.22
+spiceypy==6.0.0
+fastapi
+slowapi
+jplephem
+numpy
+pytest
